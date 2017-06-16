@@ -13,15 +13,11 @@ baseurl:
 share:
   facebook: true
   linkedin: true
-  pinterest: true
+  pinterest: false
   email: true
 
 social:
   github: cpark510/cpark510.github.io
-  stackoverflow: ''
-  linkedin:
-  instagram: ''
-  lastfm: ''
   rss: feed.xml
 
 # Google Analytics key, leave blank to ignore
