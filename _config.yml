@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: Blog Name
+name: Chan Park
 description: Software Developer
 
 # Url is currently only used only for the RSS feed in feed.xml
@@ -12,8 +12,6 @@ baseurl: '/jekyll-clean-dark'
 
 share:
   facebook: true
-  twitter: true
-  gplus: true
   linkedin: true
   pinterest: true
   email: true
