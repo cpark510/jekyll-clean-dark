@@ -1,14 +1,14 @@
 # Jekyll configuration
 
 name: Chan Park
-description: Software Developer
+description: Student
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: https://cpark510.github.io
 #url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/jekyll-clean-dark'
+baseurl: 
 
 share:
   facebook: true
